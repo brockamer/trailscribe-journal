@@ -1,0 +1,10 @@
+{% if page.location %}
+  <p class="page__meta">
+    <strong>Location:</strong>
+    {% if page.location.place %}{{ page.location.place }} · {% endif %}
+    <a href="https://www.google.com/maps/search/?api=1&amp;query={{ page.location.lat }},{{ page.location.lon }}">{{ page.location.lat }}, {{ page.location.lon }}</a>
+  </p>
+{% endif %}
+{% if page.weather %}
+  <p class="page__meta"><strong>Weather:</strong> {{ page.weather }}</p>
+{% endif %}
