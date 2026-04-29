@@ -1,12 +1,12 @@
 ---
 title: "Frozen Evening at Lake Sabrina"
 date: 2026-04-29T03:35:31.854Z
-image: /_images/2026-04-29-frozen-evening-at-lake-sabrina.webp
+image: /assets/images/2026-04-29-frozen-evening-at-lake-sabrina.webp
 location: { lat: 37.1682, lon: -118.5891, place: "Inyo County, California" }
 weather: "19°F, 1mph, fog"
 tags: [trailscribe]
 ---
-![Frozen Evening at Lake Sabrina](/_images/2026-04-29-frozen-evening-at-lake-sabrina.webp)
+![Frozen Evening at Lake Sabrina](/assets/images/2026-04-29-frozen-evening-at-lake-sabrina.webp)
 
 fog swallows the peaks
 sunset bleeds through cold white air

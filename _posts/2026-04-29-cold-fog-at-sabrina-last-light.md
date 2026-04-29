@@ -1,12 +1,12 @@
 ---
 title: "Cold Fog at Sabrina, Last Light"
 date: 2026-04-29T03:34:27.667Z
-image: /_images/2026-04-29-cold-fog-at-sabrina-last-light.webp
+image: /assets/images/2026-04-29-cold-fog-at-sabrina-last-light.webp
 location: { lat: 37.1682, lon: -118.5891, place: "Inyo County, California" }
 weather: "19°F, 1mph, fog"
 tags: [trailscribe]
 ---
-![Cold Fog at Sabrina, Last Light](/_images/2026-04-29-cold-fog-at-sabrina-last-light.webp)
+![Cold Fog at Sabrina, Last Light](/assets/images/2026-04-29-cold-fog-at-sabrina-last-light.webp)
 
 Pink fades into grey
 fog swallows the frozen lake
