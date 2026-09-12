@@ -13,7 +13,7 @@ track:
   end_place: "Malibu, California"
   pings: 4
   close_reason: stop
-location: { lat: 34.026503, lon: -118.8366, place: "Malibu, California" }
+location: { place: "Malibu, California" }
 weather: "76°F, 8mph, clear"
 tags: [trailscribe, track]
 ---

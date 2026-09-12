@@ -1,8 +1,11 @@
 {% if page.location %}
   <p class="page__meta">
     <strong>Location:</strong>
-    {% if page.location.place %}{{ page.location.place }} · {% endif %}
-    <a href="https://www.google.com/maps/search/?api=1&amp;query={{ page.location.lat }},{{ page.location.lon }}">{{ page.location.lat }}, {{ page.location.lon }}</a>
+    {% if page.location.place %}{{ page.location.place }}{% endif %}
+    {%- if page.location.lat and page.location.lon -%}
+      {% if page.location.place %} · {% endif %}
+      <a href="https://www.google.com/maps/search/?api=1&amp;query={{ page.location.lat }},{{ page.location.lon }}">{{ page.location.lat }}, {{ page.location.lon }}</a>
+    {%- endif -%}
   </p>
 {% endif %}
 {% if page.weather %}
