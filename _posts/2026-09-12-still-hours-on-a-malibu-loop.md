@@ -7,8 +7,8 @@ track:
   duration_seconds: 15465
   distance_mi: 0.01
   elevation_gain_ft: 13
-  activity_hint: hike
-  route_shape: loop
+  activity_hint: stationary
+  route_shape: stationary
   start_place: "Malibu, California"
   end_place: "Malibu, California"
   pings: 4
