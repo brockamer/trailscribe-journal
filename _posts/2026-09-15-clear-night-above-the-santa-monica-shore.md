@@ -1,7 +1,10 @@
 ---
 title: "Clear Night Above the Santa Monica Shore"
 date: 2026-09-15T04:48:36.752Z
-image: /trailscribe-journal/assets/images/2026-09-15-clear-night-above-the-santa-monica-shore.webp
+image: /assets/images/2026-09-15-clear-night-above-the-santa-monica-shore.webp
+header:
+  og_image: /assets/images/2026-09-15-clear-night-above-the-santa-monica-shore.webp
+excerpt: "Stars press close to shore\nsalt air holds the cooling dark\nwaves count out the hours"
 location: { lat: 34.0266215801239, lon: -118.83640766143799, place: "Malibu, California" }
 weather: "66°F, 4mph, clear"
 tags: [trailscribe]

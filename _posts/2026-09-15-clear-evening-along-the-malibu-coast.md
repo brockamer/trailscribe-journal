@@ -1,7 +1,10 @@
 ---
 title: "Clear Evening Along the Malibu Coast"
 date: 2026-09-15T05:13:13.711Z
-image: /trailscribe-journal/assets/images/2026-09-15-clear-evening-along-the-malibu-coast.webp
+image: /assets/images/2026-09-15-clear-evening-along-the-malibu-coast.webp
+header:
+  og_image: /assets/images/2026-09-15-clear-evening-along-the-malibu-coast.webp
+excerpt: "Still Pacific air\ncoastal sage holds the cool light\nsixty-six degrees"
 location: { lat: 34.0266215801239, lon: -118.83638620376587, place: "Malibu, California" }
 weather: "66°F, 4mph, clear"
 tags: [trailscribe]

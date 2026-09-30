@@ -1,7 +1,10 @@
 ---
 title: "Two Brothers, One Road Out of Hickory"
 date: 2026-05-14T11:40:44.681Z
-image: /trailscribe-journal/assets/images/2026-05-14-two-brothers-one-road-out-of-hickory.webp
+image: /assets/images/2026-05-14-two-brothers-one-road-out-of-hickory.webp
+header:
+  og_image: /assets/images/2026-05-14-two-brothers-one-road-out-of-hickory.webp
+excerpt: "open road ahead\nbrother rides shotgun, windows\ndown in the cool air"
 location: { lat: 35.734641551971436, lon: -81.36337280273438, place: "Hickory, North Carolina" }
 weather: "57°F, 9mph, clear"
 tags: [trailscribe]

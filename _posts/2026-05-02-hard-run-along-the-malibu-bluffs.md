@@ -1,7 +1,10 @@
 ---
 title: "Hard Run Along the Malibu Bluffs"
 date: 2026-05-02T16:03:59.347Z
-image: /trailscribe-journal/assets/images/2026-05-02-hard-run-along-the-malibu-bluffs.webp
+image: /assets/images/2026-05-02-hard-run-along-the-malibu-bluffs.webp
+header:
+  og_image: /assets/images/2026-05-02-hard-run-along-the-malibu-bluffs.webp
+excerpt: "gray clouds press the hills\nlegs burn through the cold sea wind\nthe mind goes quiet"
 location: { lat: 34.02633190155029, lon: -118.75589847564697, place: "Malibu, California" }
 weather: "59°F, 5mph, partly cloudy"
 tags: [trailscribe]

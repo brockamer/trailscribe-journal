@@ -1,7 +1,10 @@
 ---
 title: "Long Miles Above the Pacific, No Rush"
 date: 2026-09-16T15:51:28.383Z
-image: /trailscribe-journal/assets/images/2026-09-16-long-miles-above-the-pacific-no-rush.webp
+image: /assets/images/2026-09-16-long-miles-above-the-pacific-no-rush.webp
+header:
+  og_image: /assets/images/2026-09-16-long-miles-above-the-pacific-no-rush.webp
+excerpt: "salt air fills the lungs\nfeet find rhythm on dry trail\nthe coast holds me still"
 location: { lat: 34.01595711708069, lon: -118.82185935974121, place: "Malibu, California" }
 weather: "71°F, 6mph, partly cloudy"
 tags: [trailscribe]

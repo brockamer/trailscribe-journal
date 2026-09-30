@@ -1,7 +1,10 @@
 ---
 title: "Clear Night on the Malibu Bluffs"
 date: 2026-04-29T04:22:45.427Z
-image: /trailscribe-journal/assets/images/2026-04-29-clear-night-on-the-malibu-bluffs.webp
+image: /assets/images/2026-04-29-clear-night-on-the-malibu-bluffs.webp
+header:
+  og_image: /assets/images/2026-04-29-clear-night-on-the-malibu-bluffs.webp
+excerpt: "salt air holds the cold\nfriends lean close around the fire\nstars fill the whole sky"
 location: { lat: 34.02644991874695, lon: -118.76014709472656, place: "Malibu, California" }
 weather: "62°F, 8mph, clear"
 tags: [trailscribe]

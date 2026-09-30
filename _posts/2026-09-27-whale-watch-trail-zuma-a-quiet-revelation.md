@@ -1,7 +1,10 @@
 ---
 title: "Whale Watch Trail, Zuma: A Quiet Revelation"
 date: 2026-09-27T17:03:02.252Z
-image: /trailscribe-journal/assets/images/2026-09-27-whale-watch-trail-zuma-a-quiet-revelation.webp
+image: /assets/images/2026-09-27-whale-watch-trail-zuma-a-quiet-revelation.webp
+header:
+  og_image: /assets/images/2026-09-27-whale-watch-trail-zuma-a-quiet-revelation.webp
+excerpt: "gray backs breach and roll\nPacific holds its cold breath\nwe forget to speak"
 location: { lat: 34.012, lon: -118.817, place: "Malibu, California" }
 weather: "74°F, 1mph, partly cloudy"
 tags: [trailscribe]

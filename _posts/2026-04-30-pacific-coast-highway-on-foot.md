@@ -1,7 +1,10 @@
 ---
 title: "Pacific Coast Highway, on Foot"
 date: 2026-04-30T21:35:57.670Z
-image: /trailscribe-journal/assets/images/2026-04-30-pacific-coast-highway-on-foot.webp
+image: /assets/images/2026-04-30-pacific-coast-highway-on-foot.webp
+header:
+  og_image: /assets/images/2026-04-30-pacific-coast-highway-on-foot.webp
+excerpt: "Cars blur past the bluff\nI stand still beside the surf\nthankful for slow miles"
 location: { lat: 34.02183651924133, lon: -118.80274057388306, place: "Malibu, California" }
 weather: "65°F, 11mph, clear"
 tags: [trailscribe]

@@ -1,7 +1,10 @@
 ---
 title: "Pacific Coast Morning, Windows Down"
 date: 2026-04-29T16:05:53.439Z
-image: /trailscribe-journal/assets/images/2026-04-29-pacific-coast-morning-windows-down.webp
+image: /assets/images/2026-04-29-pacific-coast-morning-windows-down.webp
+header:
+  og_image: /assets/images/2026-04-29-pacific-coast-morning-windows-down.webp
+excerpt: "salt air through the glass\nPCH unspools ahead\npalms hold the cool light"
 location: { lat: 34.02212619781494, lon: -118.79149675369263, place: "Malibu, California" }
 weather: "64°F, 5mph, clear"
 tags: [trailscribe]

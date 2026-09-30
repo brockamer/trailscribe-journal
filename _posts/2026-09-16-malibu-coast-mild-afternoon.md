@@ -1,7 +1,10 @@
 ---
 title: "Malibu Coast, Mild Afternoon"
 date: 2026-09-16T15:46:58.942Z
-image: /trailscribe-journal/assets/images/2026-09-16-malibu-coast-mild-afternoon.webp
+image: /assets/images/2026-09-16-malibu-coast-mild-afternoon.webp
+header:
+  og_image: /assets/images/2026-09-16-malibu-coast-mild-afternoon.webp
+excerpt: "Thin clouds drift offshore\nSanta Monica light holds\nsix miles per hour wind"
 location: { lat: 34.013822078704834, lon: -118.81941318511963, place: "Malibu, California" }
 weather: "71°F, 6mph, partly cloudy"
 tags: [trailscribe]

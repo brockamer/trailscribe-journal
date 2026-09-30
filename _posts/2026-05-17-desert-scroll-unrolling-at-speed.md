@@ -1,7 +1,10 @@
 ---
 title: "Desert Scroll Unrolling at Speed"
 date: 2026-05-17T20:15:36.424Z
-image: /trailscribe-journal/assets/images/2026-05-17-desert-scroll-unrolling-at-speed.webp
+image: /assets/images/2026-05-17-desert-scroll-unrolling-at-speed.webp
+header:
+  og_image: /assets/images/2026-05-17-desert-scroll-unrolling-at-speed.webp
+excerpt: "spined arms blur and streak\njoshua trees lean and watch\nthe road takes me through"
 location: { lat: 33.906179666519165, lon: -115.84804058074951, place: "Riverside County, California" }
 weather: "86°F, 14mph, clear"
 tags: [trailscribe]

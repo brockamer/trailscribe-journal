@@ -1,7 +1,10 @@
 ---
 title: "Fog and Rhythm Above the Pacific"
 date: 2026-04-30T13:41:23.622Z
-image: /trailscribe-journal/assets/images/2026-04-30-fog-and-rhythm-above-the-pacific.webp
+image: /assets/images/2026-04-30-fog-and-rhythm-above-the-pacific.webp
+header:
+  og_image: /assets/images/2026-04-30-fog-and-rhythm-above-the-pacific.webp
+excerpt: "Arms cut through cold air\nblocks dissolve into the grey\nsweat meets ocean mist"
 location: { lat: 34.026771783828735, lon: -118.76010417938232, place: "Malibu, California" }
 weather: "55°F, 6mph, fog"
 tags: [trailscribe]
